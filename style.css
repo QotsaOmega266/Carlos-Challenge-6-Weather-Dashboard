@@ -1,0 +1,28 @@
+body {
+    background: lightblue;
+}
+
+h1 {
+    color: white;
+    background-color: blue;
+    padding: 18px 0;
+    font-size: 1.75rem;
+    /* text-align: center; */
+}
+
+.day {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+}
+
+.day .card {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+}
+
